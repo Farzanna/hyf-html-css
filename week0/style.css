@@ -1,5 +1,4 @@
-
-      a:link{color:blue;}
+a:link{color:blue;}
       a:visited{color:purple;}
       body {
             font-family: sans-serif;
@@ -187,5 +186,3 @@
       a:hover { 
          background-color: rgb(255, 214, 255);
             }
-    
-    
