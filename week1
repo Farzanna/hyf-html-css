@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parmis's resume</title>
+    <link type="text/css" rel="stylesheet" href="styleweek1.css">
+</head>
+
+<body>
+    <div id="container">
+        <header role="banner">
+            <div id="HeaderContainer">
+            <h1>Parmis Parsa</h1>
+            <p id="start-paragraph">Freelance frontend developer based in Amsterdam</p>
+            </div>
+        </header>
+
+        <nav>
+            <ul id="buttons">
+                <li><a href="#about" class="button">about </a></li>
+                <li><a href="#education" class="button">education </a></li>
+                <li><a href="#contact-info" class="button">contact </a></li>
+            </ul>
+        </nav>
+        <main role="main">
+            <div id="sections">
+
+                <!-- <section1 class="section"> -->
+                <div class="ClassDivWholeSides">
+                    <div class="ClassDivLeftSide">
+                        <h2 id="about">about</h2>
+                    </div>
+
+                    <div class="ClassDivRightSide">
+                        <img src="https://i.ibb.co/1JD4TgF/photo-2019-05-25-00-17-58.jpg"
+                            alt="A photo of me" >
+                        <p> Motivated, personable Freelance Web Developer who loves to learn and creatively solve problems. I have a Successful 10+ year track record building websites in small business, agency, education and in-house sectors. Seeking a position as a Full Stack Developer to further enhance organizational worth by leveraging my skills and knowledge in Front-end and Back-end development, Responsive frameworks, Coding, Designing and maintaining Databases to enhance the client experience.I focus on creative interactions & slick animations. I work with start-ups, agencies and brands. If you need a website, I'd love to build it for you(this is a sample)</p>
+                    </div>
+
+                </div>
+
+                <!-- </section1> -->
+
+                <!-- <section2 class="section"> -->
+                <div class="ClassDivWholeSides">
+                    <div class="ClassDivLeftSide">
+                        <h2 id="education">education and experience</h2>
+                    </div>
+
+                    <div class="ClassDivRightSide ">
+                        <ul id="educations">
+                            <li>Bachelor of Science: computer science (example)</li><br>
+                            
+                            <li>Collaborating with the team to provide technically functional campus cat coalition and user-friendly solutions for clients.</li><br>
+                            <li>Executing Agile development practices via Google the organization's goals.</li><br>
+                            <li>Currently working with organizations developing websites that include e-commerce, small business, and education.</li><br>
+                            <li>Investigating the traffic and enhancing the page ranking of customer websites by improving website structure, performing search engine optimization (SEO) and search engine marketing (SEM) for local improvements</li><br>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- </section2> -->
+
+                <!-- <section3 class="section"> -->
+                <div class="ClassDivWholeSides">
+                    <div class="ClassDivLeftSide">
+                        <h2 id="contact-info">contact info</h2>
+                    </div>
+
+                    <div class="ClassDivRightSide SectionContainer">
+                        <ul>
+                                <li>tel:0621234567</li>
+                                <li>addres: Amsterdam central station</li>
+                                <li><a href="https://twitter.com/Twitter?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></li>
+                                <li><a href="https://www.facebook.com/CrossFitGames/">facebook</a></li>
+                                <li><a href="https://www.linkedin.com/">linkedin</a></li>
+                                <li>email: example@example.com</li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- </section3> -->
+            </div>
+        </main>>
+        <footer role="contentinfo">
+            <div id="FooterFirstPart">
+                <h3>about this page</h3>
+                <p>I have made this web page for week1 assignment for hackyourfuture academy, all information on this page are just examples and they are not true. below there is some information about making this page</p>
+            </div>
+
+            <div id="FooterSecondPart">
+                <div class="FooterList">
+                    <h3>learning strategies</h3>
+                    <ul>
+                        <li>study HYF manual carefully</li>
+                        <li>SPACED PRACTICE</li>
+                        <li>RETRIEVAL PRACTICE</li>
+                        <li>searching on internet </li>
+                        <li>doing the project</li>
+                        <li>final check </li>
+                       
+                    </ul>
+                </div>
+                <div class="FooterList">
+                    <h3> most important platforms/resources</h3>
+                    <ul>
+                        <li><a href="https://developer.mozilla.org/en-US/docs/Web">Web technology for developers</a> </li>
+                        <li><a href="https://css-tricks.com/archives/">css-tricks</a></li>
+                        <li><a href="https://www.w3.org/TR/wai-aria-practices-1.1/#intro">WAI-ARIA Authoring Practices </a></li>
+                        <li><a href="https://www.w3schools.com/default.asp">w3schools</a></li>
+                        <li><a href="https://www.bitdegree.org/learn/html-layout">bitdegree</a></li>
+                        <li><a href="https://www.youtube.com/watch?v=z8xUCzToff8">Accessibility Fundamentals</a>
+                    </ul>
+                </div>
+                </div>
+        </footer>
+    </div>
+
+</body>
+
+</html>
